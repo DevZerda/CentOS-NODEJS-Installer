@@ -2,6 +2,7 @@
 A NODEJS Installation script for CentOS
 
 Commands to install: 
-$ python setup.py 1
+$ python nodejs_installation.py 1
+
 then restart your terminal and run
-$ python setup.py 2
+$ python nodejs_installation.py 2
